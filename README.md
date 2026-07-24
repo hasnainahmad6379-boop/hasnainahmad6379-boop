@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Hasnain Ahmad 👋
 
-<!--
-**hasnainahmad6379-boop/hasnainahmad6379-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Full Stack Web Developer passionate about building responsive websites and practical applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning Full Stack Web Development
+- Interested in frontend development, backend systems, and problem solving
+- Building projects to improve my programming skills
+
+## 🛠️ Technologies
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Python
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📌 Featured Projects
+
+- 🌐 Personal Portfolio  
+  My responsive portfolio website built with HTML, CSS, and JavaScript.
+
+- 💱 Currency Converter  
+  A JavaScript application using API integration for real-time currency conversion.
+
+- 🎓 Student Management System  
+  A Python and MySQL CRUD application for managing student records.
+
+- 💼 Employee Management System  
+  A Python and MySQL application with employee and salary management features.
+
+- 📚 Library Management System  
+  A Python and MySQL application for managing books and inventory.
+
+## 🌐 Portfolio
+
+Check out my portfolio:
+
+https://hasnainahmad6379-boop.github.io/personal-portfolio/
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/hasnainahmad6379-boop
