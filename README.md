@@ -17,26 +17,8 @@ I'm Full Stack Web Developer passionate about building responsive websites and p
 - React
 
 ### Backend
-- Express js
-- MongoDb
+- Express.js
+- MongoDB
 - Node
 
-### Tools
-- Git
-- GitHub
-- VS Code
 
-## 📌 Featured Projects
-
-- 🌐 Personal Portfolio  
-  My responsive portfolio website built with HTML, CSS, and JavaScript.
-
-- 💱 Currency Converter  
-  A JavaScript application using API integration for real-time currency conversion.
-
-
-
-## 📫 Connect With Me
-
-GitHub:
-https://github.com/hasnainahmad6379-boop
